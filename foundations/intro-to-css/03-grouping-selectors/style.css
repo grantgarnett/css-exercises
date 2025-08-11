@@ -1,0 +1,14 @@
+.left-twix, 
+.right-twix {
+    font-size: 28px;
+    font-family: Arial, Helvetica, 'Times New Roman', sans-serif;
+}
+
+.left-twix {
+    background-color: black;
+    color: white;
+}
+
+.right-twix {
+    background-color: #ffff29
+}
